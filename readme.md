@@ -25,14 +25,6 @@ To run the app, follow these steps:
 - Android Studio
 - Kotlin
 
-## Screenshots
-
-![Home Screen](/path/to/home_screen.png)
-![Skills Section](/path/to/skills_section.png)
-![Qualification Section](/path/to/qualification_section.png)
-![Past Works Section](/path/to/past_works_section.png)
-![Achievements Section](/path/to/achievements_section.png)
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
